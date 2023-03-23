@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "coenoflex"]
+	path = coenoflex
+	url = https://github.com/cran/coenoflex
+	shallow = true
+	registered = true
+[submodule "fso"]
+	path = fso
+	url = https://github.com/cran/fso
+	shallow = true
+	registered = true
+[submodule "labdsv"]
+	path = labdsv
+	url = https://github.com/cran/labdsv
+	shallow = true
+	registered = true
+[submodule "optpart"]
+	path = optpart
+	url = https://github.com/cran/optpart
+	shallow = true
+	registered = true
