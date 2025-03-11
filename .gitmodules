@@ -11,6 +11,3 @@
 [submodule "labdsv"]
 	path = labdsv
 	url = https://github.com/cran/labdsv
-[submodule "optpart"]
-	path = optpart
-	url = https://github.com/cran/optpart
